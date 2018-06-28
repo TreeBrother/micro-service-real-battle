@@ -24,9 +24,5 @@ hs_err_pid*
 
 
 /.idea/
-/micro-service-real-battle-admin/micro-service-real-battle-admin.iml
-/micro-service-real-battle-eureka/micro-service-real-battle-eureka.iml
-/micro-service-real-battle-eureka-cusomer/micro-service-real-battle-eureka-cusomer.iml
-/micro-service-real-battle-eureka-cusomer-hystrix/micro-service-real-battle-eureka-cusomer-hystrix.iml
-/micro-service-real-battle-eureka-provider/micro-service-real-battle-eureka-provider.iml
-/micro-service-real-battle.iml
+*.iml
+
