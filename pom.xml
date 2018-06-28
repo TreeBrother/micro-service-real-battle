@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <name>micro-service-real-battle</name>
-    <description>微服务实战练习</description>
+    <description>spring cloud 微服务实战练习</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
