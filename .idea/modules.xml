@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/micro-service-real-battle.iml" filepath="$PROJECT_DIR$/micro-service-real-battle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-real-battle-admin/micro-service-real-battle-admin.iml" filepath="$PROJECT_DIR$/micro-service-real-battle-admin/micro-service-real-battle-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-real-battle-eureka/micro-service-real-battle-eureka.iml" filepath="$PROJECT_DIR$/micro-service-real-battle-eureka/micro-service-real-battle-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-real-battle-eureka-cusomer/micro-service-real-battle-eureka-cusomer.iml" filepath="$PROJECT_DIR$/micro-service-real-battle-eureka-cusomer/micro-service-real-battle-eureka-cusomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-real-battle-eureka-cusomer-hystrix/micro-service-real-battle-eureka-cusomer-hystrix.iml" filepath="$PROJECT_DIR$/micro-service-real-battle-eureka-cusomer-hystrix/micro-service-real-battle-eureka-cusomer-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-real-battle-eureka-provider/micro-service-real-battle-eureka-provider.iml" filepath="$PROJECT_DIR$/micro-service-real-battle-eureka-provider/micro-service-real-battle-eureka-provider.iml" />
+    </modules>
+  </component>
+</project>
