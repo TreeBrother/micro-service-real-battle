@@ -1,0 +1,19 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: microServiceRealBattleEureka
+  boot:
+    admin:
+      client:
+        url: http://localhost:7999
+eureka:
+  instance:
+    hostname: eureka-01
+  client:
+    service-url:
+      defaultZone: http://eureka-02:8081/eureka/
+
+
+
