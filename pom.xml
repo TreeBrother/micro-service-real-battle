@@ -22,9 +22,10 @@
     <modules>
         <module>micro-service-real-battle-admin</module>
         <module>micro-service-real-battle-eureka</module>
-        <module>micro-service-real-battle-eureka-provider</module>
+        <module>micro-service-real-battle-provider</module>
         <module>micro-service-real-battle-eureka-cusomer</module>
-        <module>micro-service-real-battle-eureka-cusomer-hystrix</module>
+        <module>micro-service-real-battle-cusomer-hystrix</module>
+        <module>micro-service-real-battle-feign</module>
     </modules>
 
     <properties>

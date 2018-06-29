@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.pdh</groupId>
-	<artifactId>micro-service-real-battle-eureka-provider</artifactId>
+	<artifactId>micro-service-real-battle-provider</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>micro-service-real-battle-eureka-provider</name>
+	<name>>micro-service-real-battle-provider</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
